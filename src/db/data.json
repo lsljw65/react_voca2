@@ -59,6 +59,20 @@
       "eng": "mouse",
       "kor": "",
       "isDone": false
+    },
+    {
+      "id": "5bdd",
+      "day": "1",
+      "eng": "sample",
+      "kor": "견본",
+      "isDone": false
+    },
+    {
+      "id": "d6d3",
+      "day": "1",
+      "eng": "handpone",
+      "kor": "휴대용 폰",
+      "isDone": false
     }
   ]
 }
